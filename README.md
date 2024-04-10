@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kemkho
 - 👀 I’m interested in Front End Development (yet)
-- 🌱 I’m currently learning basics 😂 (HTML, CSS, JS, ES6+, C++, SQL)
+- 🌱 Currently I’m learning basics  (HTML, CSS, JS, ES6+, C++, SQL)
 - 💞️ I’m looking for interesting sources, some guidance and opportunities. 
 
 
